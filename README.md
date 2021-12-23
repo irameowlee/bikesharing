@@ -4,7 +4,7 @@
 The purpose of this project is to analyze New York City's bikesharing data using Tableau, a ubiquitous data analysis and visulatization tool.
 
 ### Results
-!(./images/Screen Shot 2021-12-21 at 1.10.44 AM.png)
+![](./images/Screen Shot 2021-12-21 at 1.10.44 AM.png)
 
 - 81.1 percent of the users are subscribers.
 
@@ -14,11 +14,11 @@ The purpose of this project is to analyze New York City's bikesharing data using
 
 
 
-!(./images/Screen Shot 2021-12-21 at 1.13.11 AM.png)
+![](./images/Screen Shot 2021-12-21 at 1.13.11 AM.png)
 
 -  Most trip durations are under 30 minutes. Users being predominantly male.
 
-!(./images/Screen Shot 2021-12-21 at 1.14.29 AM.png)
+![](./images/Screen Shot 2021-12-21 at 1.14.29 AM.png)
  
 * Bike usage during weekdays are highest during commute hours.
 
